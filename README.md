@@ -18,7 +18,6 @@ Hey there, I'm David, a brazilian freelancer specializing in .NET development si
 
 [![YouTube](https://github.com/davidfreitas51/davidfreitas51/blob/main/assets/152209400/3048c6a0-5209-4a2a-97b0-265cddbcd518.png?raw=true)](https://www.youtube.com/@davidfreitas272)
 
-
 [![whatsapp_icon](https://github.com/davidfreitas51/davidfreitas51/assets/152209400/7cea819b-0031-46a8-a4a4-24629e9fa96c)](https://wa.link/vch1wo)
 
 [![linkedin_icon](https://github.com/davidfreitas51/davidfreitas51/assets/152209400/28c14f84-c08d-4a06-b58d-2c978481a6f7)](https://www.linkedin.com/in/david-freitas51/)
