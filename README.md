@@ -11,7 +11,7 @@ Hey there, I'm David, a brazilian freelancer specializing in .NET development si
 
 ## About me
 - E-mail: davidjumi51@gmail.com
-- Linkedin: [click here] (https://www.linkedin.com/in/david-freitas51/)
+- Linkedin: [click here](https://www.linkedin.com/in/david-freitas51/)
 - Instagram: https://www.instagram.com/ddavid.freitas/
 - Youtube: https://www.youtube.com/@davidfreitas272
 - Whatsapp: https://wa.link/vch1wo
