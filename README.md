@@ -17,3 +17,6 @@ Hey there, I'm David, a brazilian freelancer specializing in .NET development si
 - Whatsapp: https://wa.link/vch1wo
 
 Feel free to contact me for projects, suggestions, feedback, or any inquiries you may have!
+
+
+![meia-noite-te-conto-boa-noite-arrombado](https://github.com/davidfreitas51/davidfreitas51/assets/152209400/aa0a217e-d02b-4acf-9573-8f6f61b19961)
