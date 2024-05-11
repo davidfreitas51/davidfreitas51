@@ -10,6 +10,10 @@ Hey there, I'm David, a brazilian freelancer specializing in .NET development si
 - MVC and DDD
 
 ## About me
-- Linkedin:
-- Youtube:
-- Whatsapp: 
+- E-mail: davidjumi51@gmail.com
+- Linkedin: https://www.linkedin.com/in/david-freitas51/
+- Instagram: https://www.instagram.com/ddavid.freitas/
+- Youtube: https://www.youtube.com/@davidfreitas272
+- Whatsapp: https://wa.link/vch1wo
+
+Feel free to contact me for projects, suggestions, feedback, or any inquiries you may have!
