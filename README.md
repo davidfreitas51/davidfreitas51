@@ -7,6 +7,7 @@ Hey there, I'm David, a brazilian freelancer specializing in .NET development si
 - ASP.NET Core
 - WebAPIs (REST and SOAP)
 - SQL and NoSQL
+- HTML5 and CSS3
 - EF Core and Dapper
 - WPF
 - MVC and DDD
