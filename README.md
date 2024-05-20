@@ -21,4 +21,4 @@ Hey there, I'm David, a brazilian freelancer specializing in .NET development si
 [![instagram_icon](https://github.com/davidfreitas51/davidfreitas51/assets/152209400/fcbab9fa-1e7b-4910-9923-fb4e578798eb)](https://www.instagram.com/ddavid.freitas/)
 
 
-Feel free to contact me for projects, suggestions, feedback, or any inquiries you may have!
+Feel free to contact me for projects, suggestions, feedback, or any questions you may have!
