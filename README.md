@@ -4,8 +4,10 @@ Hey there, I'm David, a brazilian freelancer specializing in .NET development si
 
 ## Technologies
 - C# and .NET in general
-- REST APIs
+- ASP.NET Core
+- WebAPIs (REST and SOAP)
 - SQL and NoSQL
+- EF Core and Dapper
 - WPF
 - MVC and DDD
 
