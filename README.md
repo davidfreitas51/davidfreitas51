@@ -11,6 +11,7 @@ Hey there, I'm David, a brazilian freelancer specializing in .NET development si
 - EF Core and Dapper
 - WPF
 - MVC and DDD
+- Microsoft Azure
 
 ## About me
 
