@@ -5,13 +5,14 @@ Hey there, I'm David, a brazilian freelancer specializing in .NET development si
 ## Technologies
 - C# and .NET in general
 - ASP.NET Core
-- WebAPIs (REST and SOAP)
+- Web APIs (REST and SOAP)
 - SQL and NoSQL
-- HTML5 and CSS3
 - EF Core and Dapper
-- WPF
-- MVC and DDD
-- Microsoft Azure
+- Unity testing
+- Azure and AWS
+- HTML5 and CSS3
+- Docker and Kubernetes
+- Git / GitHub
 
 ## About me
 
