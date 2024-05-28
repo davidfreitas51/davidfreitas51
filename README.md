@@ -12,7 +12,7 @@ Hey there, I'm David, a brazilian developer specializing in .NET development sin
 - Azure and AWS
 - HTML5 and CSS3
 - Docker and Kubernetes
-- Git / GitHub
+
 
 ## About me
 
