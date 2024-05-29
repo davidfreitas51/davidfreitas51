@@ -14,10 +14,9 @@ Hey there, I'm David, a brazilian developer specializing in .NET development
 - Docker and Kubernetes
 
 ## Languages
-Portuguese (native)
-English (fluent)
-Spanish (advanced)
-
+- Portuguese (native)
+- English (fluent)
+- Spanish (advanced)
 
 ## About me
 
