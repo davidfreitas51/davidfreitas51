@@ -1,6 +1,6 @@
 # Olá 👋
 
-Hey there, I'm David, a brazilian developer specializing in .NET development since January 2024.
+Hey there, I'm David, a brazilian developer specializing in .NET development
 
 ## Technologies
 - C# and .NET in general
@@ -12,6 +12,11 @@ Hey there, I'm David, a brazilian developer specializing in .NET development sin
 - Azure and AWS
 - HTML5 and CSS3
 - Docker and Kubernetes
+
+## Languages
+Portuguese (native)
+English (fluent)
+Spanish (advanced)
 
 
 ## About me
