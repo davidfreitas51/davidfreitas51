@@ -9,8 +9,8 @@ Hey there, I'm David, a brazilian developer specializing in .NET development
 - SQL and NoSQL
 - EF Core and Dapper
 - Unity testing
-- Azure and AWS
 - HTML5 and CSS3
+- Azure and AWS
 - Docker and Kubernetes
 
 ## Languages
