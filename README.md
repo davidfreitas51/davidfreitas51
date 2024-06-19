@@ -28,14 +28,9 @@ I'm David, a Brazilian developer specializing in .NET development.
 
 Feel free to reach out to me for projects, suggestions, feedback, or any questions you may have!
 
-- Email: davidjumi51@gmail.com
-- LinkedIn: [David Freitas](https://www.linkedin.com/in/david-freitas51/)
-- YouTube: [David Freitas](https://www.youtube.com/@davidfreitas272)
-- WhatsApp: [Chat with me](https://wa.link/vch1wo)
-- Instagram: [ddavid.freitas](https://www.instagram.com/ddavid.freitas/)
+Email: davidjumi51@gmail.com
 
-Icons for social media are usually not directly supported in GitHub READMEs. Ensure you're using valid image URLs or consider using Markdown links without images.
-
----
-
-This should organize your README effectively with corrected formatting and functional links. If your GitHub README supports images, make sure to use valid URLs for them.
+[![linkedin_icon](https://github.com/davidfreitas51/davidfreitas51/assets/152209400/28c14f84-c08d-4a06-b58d-2c978481a6f7)](https://www.linkedin.com/in/david-freitas51/)
+[![youtube_icon](https://github.com/davidfreitas51/davidfreitas51/assets/152209400/eb2085a5-7c37-4db7-9b73-6cde7758818a)](https://www.youtube.com/@davidfreitas272)
+[![whatsapp_icon](https://github.com/davidfreitas51/davidfreitas51/assets/152209400/7cea819b-0031-46a8-a4a4-24629e9fa96c)](https://wa.link/vch1wo)
+[![instagram_icon](https://github.com/davidfreitas51/davidfreitas51/assets/152209400/fcbab9fa-1e7b-4910-9923-fb4e578798eb)](https://www.instagram.com/ddavid.freitas/)
