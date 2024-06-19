@@ -1,17 +1,23 @@
-# Olá 👋
+# Hi there! 👋
 
-Hey there, I'm David, a brazilian developer specializing in .NET development
+I'm David, a Brazilian developer specializing in .NET development.
 
 ## Technologies
-- C# and .NET in general
-- ASP.NET Core
-- Web APIs (REST and SOAP)
-- SQL and NoSQL
-- EF Core and Dapper
-- Unity testing
-- HTML5 and CSS3
-- Azure and AWS
-- Docker and Kubernetes
+
+### Back-end:
+- .NET Core, Blazor
+- Web APIs
+- SQL Server, MySQL, SQLite
+- EF Core, Dapper
+- Unit Tests
+- Azure, AWS
+- Docker, Kubernetes
+- Git / GitHub
+
+### Front-end:
+- HTML5, CSS3, JavaScript
+- Angular, TypeScript
+- Syncfusion
 
 ## Languages
 - Portuguese (native)
@@ -20,12 +26,16 @@ Hey there, I'm David, a brazilian developer specializing in .NET development
 
 ## About me
 
-Email: davidjumi51@gmail.com
+Feel free to reach out to me for projects, suggestions, feedback, or any questions you may have!
 
-[![linkedin_icon](https://github.com/davidfreitas51/davidfreitas51/assets/152209400/28c14f84-c08d-4a06-b58d-2c978481a6f7)](https://www.linkedin.com/in/david-freitas51/)
-[![youtube_icon](https://github.com/davidfreitas51/davidfreitas51/assets/152209400/eb2085a5-7c37-4db7-9b73-6cde7758818a)](https://www.youtube.com/@davidfreitas272)
-[![whatsapp_icon](https://github.com/davidfreitas51/davidfreitas51/assets/152209400/7cea819b-0031-46a8-a4a4-24629e9fa96c)](https://wa.link/vch1wo)
-[![instagram_icon](https://github.com/davidfreitas51/davidfreitas51/assets/152209400/fcbab9fa-1e7b-4910-9923-fb4e578798eb)](https://www.instagram.com/ddavid.freitas/)
+- Email: davidjumi51@gmail.com
+- LinkedIn: [David Freitas](https://www.linkedin.com/in/david-freitas51/)
+- YouTube: [David Freitas](https://www.youtube.com/@davidfreitas272)
+- WhatsApp: [Chat with me](https://wa.link/vch1wo)
+- Instagram: [ddavid.freitas](https://www.instagram.com/ddavid.freitas/)
 
+Icons for social media are usually not directly supported in GitHub READMEs. Ensure you're using valid image URLs or consider using Markdown links without images.
 
-Feel free to contact me for projects, suggestions, feedback, or any questions you may have!
+---
+
+This should organize your README effectively with corrected formatting and functional links. If your GitHub README supports images, make sure to use valid URLs for them.
