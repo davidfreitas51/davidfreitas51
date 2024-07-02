@@ -5,7 +5,7 @@ I'm David, a Brazilian developer specializing in .NET development.
 ## Technologies
 
 ### Back-end:
-- .NET Core, Blazor
+- .NET MVC, Blazor
 - Web APIs
 - SQL Server, MySQL, SQLite
 - EF Core, Dapper
