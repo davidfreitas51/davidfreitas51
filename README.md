@@ -17,7 +17,7 @@ I'm David, a Brazilian developer specializing in .NET development.
 ### Front-end:
 - HTML5, CSS3, JavaScript
 - Angular, TypeScript
-- Syncfusion
+- Bootstrap
 
 ## Languages
 - Portuguese (native)
